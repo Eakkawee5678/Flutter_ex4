@@ -4,5 +4,5 @@
 A new Flutter project.
 
 
-<img src="assets/images/Screenshot.png" width="500" height="600"> 
+<img src="assets/images/Screenshot_mobile.png" width="500" height="600"> 
 
