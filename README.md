@@ -4,5 +4,5 @@
 A new Flutter project.
 
 
-<img scr="assets/images/Screenshot.png" width="500" height="600"> 
+<img scr="assets/images/elena.png" width="500" height="600"> 
 
